@@ -3,7 +3,7 @@
 ![ZenRock Banner](https://pbs.twimg.com/profile_banners/1777198844305887232/1718129358/1500x500)
 
 ## Links
-- [ZenRock Staking](https://testnet.itrocket.net/zenrock/staking)
+- [Exploller](https://testnet.itrocket.net/zenrock/staking)
 - [Discord](https://discord.gg/EW3uJbXd)
 - [Documentation](https://docs.zenrocklabs.io/)
 - [Twitter](https://twitter.com/OfficialZenRock)
