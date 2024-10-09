@@ -8,6 +8,12 @@
 - [Documentation](https://docs.zenrocklabs.io/)
 - [Twitter](https://twitter.com/OfficialZenRock)
 
+## System Requirements
+
+- **RAM**: 8 GB
+- **CPU**: 4 cores
+- **Disk Space**: 100 GB
+
 ## Installation ⚙️
 
 # Auto Install
