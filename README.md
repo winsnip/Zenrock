@@ -1,3 +1,11 @@
+# ZenRock Staking
+
+## Links
+- [ZenRock Staking](https://testnet.itrocket.net/zenrock/staking)
+- [Discord](https://discord.gg/EW3uJbXd)
+- [Documentation](https://docs.zenrocklabs.io/)
+- [Twitter](https://twitter.com/OfficialZenRock)
+
 ## Installation ⚙️
 
 # Auto Install
