@@ -186,13 +186,13 @@ zenrockd status 2>&1| jq
 Add New Wallet
 
 ```bash
-zenrockd keys add$WALLET
+zenrockd keys add wallet
 ```
 
 Restore executing wallet
 
 ```bash
-zenrockd keys add$WALLET --recover
+zenrockd keys add wallet --recover
 ```
 
 List All Wallets
@@ -204,31 +204,31 @@ zenrockd keys list
 Delete wallet
 
 ```bash
-zenrockd keys delete $WALLET
+zenrockd keys delete wallet
 ```
 
 Check Balance
 
 ```bash
-zenrockd q bank balances $WALLET_ADDRESS
+zenrockd q bank balances WALLET_ADDRESS
 ```
 
 Export Key (save to wallet.backup)
 
 ```bash
-zenrockd keys export$WALLET
+zenrockd keys export wallet
 ```
 
 View EVM Prived Key
 
 ```bash
-zenrockd keys unsafe-export-eth-key $WALLET
+zenrockd keys unsafe-export-eth-key wallet
 ```
 
 Import Key (restore from wallet.backup)
 
 ```bash
-zenrockd keys import$WALLET wallet.backup
+zenrockd keys import wallet wallet.backup
 ```
 
 ## Tokens
@@ -250,7 +250,7 @@ zenrockd tx distribution withdraw-rewards $VALOPER_ADDRESS --from $WALLET --comm
 Check your balance
 
 ```bash
-zenrockd query bank balances $WALLET_ADDRESS
+zenrockd query bank balances wallet_address
 ```
 
 Delegate to Yourself
